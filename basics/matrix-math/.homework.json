@@ -1,0 +1,11 @@
+{
+  "name": "matrix-math",
+  "version": "1.0.0",
+  "title": "Matrix Math Functions",
+  "description": "Implement matrix math functions.",
+  "keywords": [
+    "basics",
+    "lists",
+    "comprehensions"
+  ]
+}
